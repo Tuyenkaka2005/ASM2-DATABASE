@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|d:\\asm1\\asm1-database\\product_shoes\\product_shoes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|d:\\asm1\\asm1-database\\product_shoes\\product_shoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\adminfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\adminfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Downloads\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\adminfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\adminfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\product_shoes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED987857-655C-4558-AE1D-CFFC8173683E}|Product_Shoes\\Product_Shoes.csproj|solutionrelative:product_shoes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 257,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StaffForm.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\StaffForm.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\StaffForm.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\StaffForm.cs",
+              "RelativeToolTip": "Product_Shoes\\StaffForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:06:15.266Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Employee.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Employee.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Employee.cs",
+              "RelativeToolTip": "Product_Shoes\\Employee.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAADwv/gAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:53:48.33Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Program.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Program.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Program.cs",
+              "RelativeToolTip": "Product_Shoes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:12:30.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\Form1.Designer.cs",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAlwLABAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:10:53.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Import.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Import.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Import.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Import.cs",
+              "RelativeToolTip": "Product_Shoes\\Import.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwA0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:33:09.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Import.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Import.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Import.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Import.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\Import.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:21:50.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Customer.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Customer.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Customer.cs",
+              "RelativeToolTip": "Product_Shoes\\Customer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGIBAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:59:04.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Brand.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Brand.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Brand.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Brand.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\Brand.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:36:55.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Category.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Category.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Category.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\Category.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:26:43.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Customer.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Customer.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Customer.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:55:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminFrom.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\AdminFrom.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\AdminFrom.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\AdminFrom.cs",
+              "RelativeToolTip": "Product_Shoes\\AdminFrom.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:08:18.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Employee.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Employee.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Employee.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:52:12.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Product.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Product.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Product.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:45:17.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Form1.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Form1.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Form1.cs",
+              "RelativeToolTip": "Product_Shoes\\Form1.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwIgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:00:03.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\UserSession.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\UserSession.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\UserSession.cs",
+              "RelativeToolTip": "Product_Shoes\\UserSession.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:57:11.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminFrom.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\AdminFrom.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\AdminFrom.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\AdminFrom.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\AdminFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:24:50.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Order.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Order.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Order.cs",
+              "RelativeToolTip": "Product_Shoes\\Order.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswC4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:14:03.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StaffForm.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\StaffForm.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\StaffForm.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\StaffForm.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\StaffForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:25:24.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Supplier.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Supplier.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Supplier.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Supplier.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\Supplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:44:11.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Brand.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Brand.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Brand.cs",
+              "RelativeToolTip": "Product_Shoes\\Brand.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAArwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:39:29.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Supplier.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Supplier.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Supplier.cs",
+              "RelativeToolTip": "Product_Shoes\\Supplier.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAArwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:44:43.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Category.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Category.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Category.cs",
+              "RelativeToolTip": "Product_Shoes\\Category.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:17:42.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Order.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Order.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Order.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\Order.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:10:58.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WarehouseForm.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\WarehouseForm.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\WarehouseForm.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\WarehouseForm.cs",
+              "RelativeToolTip": "Product_Shoes\\WarehouseForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:28:00.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WarehouseForm.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\WarehouseForm.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\WarehouseForm.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\WarehouseForm.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\WarehouseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:25:53.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Form1.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Form1.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Form1.cs [Design]",
+              "RelativeToolTip": "Product_Shoes\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:56:20.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Product.cs",
+              "RelativeDocumentMoniker": "Product_Shoes\\Product.cs",
+              "ToolTip": "D:\\ASM1\\ASM1-DataBase\\Product_Shoes\\Product_Shoes\\Product.cs",
+              "RelativeToolTip": "Product_Shoes\\Product.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowHUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:48:16.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
